@@ -5,7 +5,7 @@ function Projects() {
   return(
     <>
           <div className="container my-5">
-             <h1 className="text-center mb-4">Skills</h1>
+             <h1 className="text-center mb-4">Projects</h1>
 
              <div className="d-flex justify-content-center gap-4 flex-wrap">
         
